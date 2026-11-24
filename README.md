@@ -1,3 +1,5 @@
+<div style="background-image: url('laptop-poc.png'); background-size: cover; background-repeat: no-repeat; background-position: center;">
+
 # Bringing Alienware 17 R4 to Life
 
 A practical "How To" guide for expanding the local AI capabilities of an **Alienware 17 R4** (32GB RAM, NVIDIA GeForce GTX 1070 8GB) using a **Thunderbolt 3 external GPU (eGPU) enclosure** and a **16GB AMD Radeon RX 9060 XT** graphics card—without upgrading or relying on NVIDIA hardware.
@@ -11,6 +13,8 @@ A practical "How To" guide for expanding the local AI capabilities of an **Alien
 * **Offloading Without Disabling Your Display:** Your laptop can continue driving your main screen while Ollama is configured to target the external AMD GPU and bypass the internal GTX 1070.
 
 ---
+
+</div>
 
 ## Components Needed & Pricing
 
@@ -93,3 +97,18 @@ To direct Ollama away from the internal NVIDIA GTX 1070 and use the external AMD
 * **Port check:** Confirm you are plugged into the dedicated **Thunderbolt 3** port on the Alienware 17 R4 rather than a standard USB-C data port.
 * **Power check:** Make sure the external PCIe power connector(s) on the RX 9060 XT are fully clicked in and the Sonnet 750ex power switch is on.
 * **Service restart:** Whenever you change environment variables or reconnect the eGPU while Ollama is running, restart Ollama so it re-queries available compute devices.
+
+---
+
+## <span style="color:#2f6b3f;">License</span>
+
+Alienare-17-R4-GPU-Upgrade is licensed under the [MIT License](LICENSE). Copyright (c) 2026
+Bryan Price. See the license file for the full terms.
+
+---
+
+## <span style="color:#2f6b3f;">Attribution</span>
+
+If you build upon this project, attribution is appreciated:
+
+> Based on Alienare-17-R4-GPU-Upgrade (github.com/bryanspms/Alienare-17-R4-GPU-Upgrade) by Bryan Price
