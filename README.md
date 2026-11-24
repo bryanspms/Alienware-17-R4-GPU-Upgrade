@@ -100,15 +100,36 @@ To direct Ollama away from the internal NVIDIA GTX 1070 and use the external AMD
 
 ---
 
-## <span style="color:#2f6b3f;">License</span>
+## Contributing
+
+Contributions are welcome. Please open a pull request with a clear explanation of the change and its purpose.
+
+---
+
+## Help Me Help You
+
+This project is independently built and maintained, and developing it takes time—especially testing integrations and keeping it reliable across Linux setups. Your support helps me continue improving the project, fixing issues, and keeping it free and local-first. If this project is useful to you, a contribution is greatly appreciated.
+
+
+<a href="https://www.buymeacoffee.com/bryanspms" target="_blank">
+  <img src= "BuyMeAcoffee-qrCode.png" alt="Buy Me A Coffee" width="180">
+</a>
+&nbsp;&nbsp;
+<a href="https://www.buymeacoffee.com/bryanspms" target="_blank">
+  <img src= "BuyMeAcoffee.gif" alt="Buy Me A Coffee" width="180">
+</a>
+
+---
+
+## License
 
 Alienare-17-R4-GPU-Upgrade is licensed under the [MIT License](LICENSE). Copyright (c) 2026
 Bryan Price. See the license file for the full terms.
 
 ---
 
-## <span style="color:#2f6b3f;">Attribution</span>
+## Attribution
 
 If you build upon this project, attribution is appreciated:
 
-> Based on Alienare-17-R4-GPU-Upgrade (github.com/bryanspms/Alienare-17-R4-GPU-Upgrade) by Bryan Price
+> Based on Alienare-17-R4-GPU-Upgrade (https://github.com/bryanspms/Alienware-17-R4-GPU-Upgrade) by Bryan Price
