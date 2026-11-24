@@ -56,6 +56,8 @@ The **Sonnet eGPU Breakaway Box 750ex** supports graphics cards up to **312mm x 
 4. Connect the Thunderbolt 3 cable between the enclosure and the **Thunderbolt 3** port on your Alienware 17 R4.
    * *Tip:* If you run Linux, connect and power on the eGPU before booting the laptop so the PCIe bus enumerates cleanly at startup.
 
+![Setup Diagram](setup-diagram.png)
+
 ### Step 2: Authorize the Thunderbolt Device
 * **Windows:** Open **Thunderbolt Control Center** (or respond to the connection prompt) and set the Sonnet enclosure to **Always Connect**.
 * **Linux (Ubuntu/Debian):** Authorize the device in **Settings → Thunderbolt** or enroll it via `boltctl`.
