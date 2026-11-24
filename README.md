@@ -125,7 +125,7 @@ This project is independently built and maintained, and developing it takes time
 
 ## License
 
-Alienare-17-R4-GPU-Upgrade is licensed under the [MIT License](LICENSE). Copyright (c) 2026
+Alienware-17-R4-GPU-Upgrade is licensed under the [MIT License](LICENSE). Copyright (c) 2026
 Bryan Price. See the license file for the full terms.
 
 ---
@@ -134,4 +134,4 @@ Bryan Price. See the license file for the full terms.
 
 If you build upon this project, attribution is appreciated:
 
-> Based on Alienare-17-R4-GPU-Upgrade (https://github.com/bryanspms/Alienware-17-R4-GPU-Upgrade) by Bryan Price
+> Based on Alienware-17-R4-GPU-Upgrade (https://github.com/bryanspms/Alienware-17-R4-GPU-Upgrade) by Bryan Price
